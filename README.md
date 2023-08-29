@@ -14,9 +14,9 @@ The code is broken up into several sections as follows:
   - The function for plotting the simulation has several lines commented out, these can be included if the user wishes to view the simulation from additional angles.
 
 - The Rules and Conditions for the Simulation
-   - This cell contains all of the user defined starting conditions for the simulation.
-   - Features which can be altered include: the living cell size, the initial configuration of cells, the rules for the Game of Life, the droplet (both 1 and 2) positions, sizes and velocities, the number of generations for the code to simulate, the zoom of the simulation and the transparency of the droplet. Defaults have been included as comments.
-   - The folder number variable is where the files will be saved when running the simulation.
+  - This cell contains all of the user defined starting conditions for the simulation.
+  - Features which can be altered include: the living cell size, the initial configuration of cells, the rules for the Game of Life, the droplet (both 1 and 2) positions, sizes and velocities, the number of generations for the code to simulate, the zoom of the simulation and the transparency of the droplet. Defaults have been included as comments.
+  - The folder number variable is where the files will be saved when running the simulation.
 
 - A Droplet Surface Area and Volume Calculator
   - This cell calculates the surface area, the volume and the eccentricity of each of the individual droplets simulated and the total volume and radius corresponding to the total volume should the droplets merge.
