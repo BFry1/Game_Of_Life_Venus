@@ -3,7 +3,9 @@ This repository contains the work carried out on the Venus Game of Life simulati
 
 The simulations are contained within the folders. The simulations were created in triples with three speeds available for viewing, fast, medium and slow. The folders also contain all of the .png files which were used in the creation of the .gifs.
 
-The Game of Life code file can be opened on GitHub, then it is recommended to use the 'Open in Colab' button on the Preview pane to view this on Colab. Alternatively, the url for the code can be copiedand pasted into the the GitHub section of the pop-up box on Google Colab. All of the code has been written using the Python coding language.
+The Game of Life code file can be opened on GitHub, then it is recommended to use the 'Open in Colab' button on the Preview pane to view this on Colab. Alternatively, the url for the code can be copiedand pasted into the the GitHub section of the pop-up box on Google Colab. 
+
+All of the code has been written using the Python coding language.
 
 The code is broken up into several sections as follows:
 - The Imports
